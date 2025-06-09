@@ -1,4 +1,4 @@
-# 💬 LLM-Powered Chatbots using Ollama
+# LLM-Powered Chatbots using Ollama
 
 This repository showcases multiple chatbot projects powered by Large Language Models (LLMs) using [Ollama](https://ollama.com). These chatbots are designed to handle diverse use-cases like task assistance, contextual Q&A, and interactive conversations—running locally, privately, and efficiently.
 
