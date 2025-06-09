@@ -17,11 +17,11 @@ This repository showcases multiple chatbot projects powered by Large Language Mo
 
 ##  Tech Stack
 
-- **LLM Framework**: [Ollama](https://ollama.com)  
-- **Models Used**: `llama3`, `mistral`, `gemma`, others via `ollama pull`
-- **Frontend**: React.js (for UI-based bots)  
-- **Backend**: Node.js / Python Flask  
-- **Deployment**: Localhost or private cloud
+- **LLM Framework** : [Ollama](https://ollama.com)  
+- **Models Used** : `llama3`, `mistral`, `gemma`, others via `ollama pull`
+- **Frontend** : React.js (for UI-based bots)  
+- **Backend** : Node.js / Python Flask  
+- **Deployment** : Localhost or private cloud
 
 ---
 
