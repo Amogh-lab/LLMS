@@ -4,13 +4,13 @@ This repository showcases multiple chatbot projects powered by Large Language Mo
 
 ##  Projects in This Repository
 
-- ** Personal Assistant Bot**  
+- **Personal Assistant Bot**  
   A conversational assistant designed to handle daily productivity tasks, reminders, and queries using LLaMA 3 via Ollama.
 
-- ** FAQ Bot**  
+- **FAQ Bot**  
   Answers frequently asked questions related to a specific domain (e.g., education, healthcare) by retrieving context-aware answers.
 
-- ** Experimentation Playground**  
+- **Experimentation Playground**  
   A sandbox environment for testing various LLMs like `llama3`, `mistral`, and `gemma` with different prompts and fine-tuned behaviors.
 
 ---
