@@ -31,5 +31,5 @@ This repository showcases multiple chatbot projects powered by Large Language Mo
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<your-username>/ollama-chatbots.git
-   cd ollama-chatbots
+   git clone https://github.com/Amogh-lab/LLMS.git
+  
