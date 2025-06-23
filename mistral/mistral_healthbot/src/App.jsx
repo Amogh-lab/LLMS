@@ -29,7 +29,7 @@ function App() {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          model: 'healthbot',
+          model: 'studybot',
           prompt: `
           SYSTEM: You are an AI that responds using clean HTML5. Use proper <h2>, <h3>, <table>, <tr>, <td>, <p>, <ul>, <li>, <br> tags.
           The user question is below. Please explain using:
@@ -88,7 +88,7 @@ function App() {
 
   return (
     <div className="chat-container">
-      <div className="chat-header">HealthBot</div>
+      <div className="chat-header">StudyBot 1.0</div>
       <div className="chat-window">
         {messages.map((msg, idx) => (
           <div
